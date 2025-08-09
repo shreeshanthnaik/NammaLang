@@ -1,0 +1,2 @@
+[console_scripts]
+nammalang = nammalang.__main__:main

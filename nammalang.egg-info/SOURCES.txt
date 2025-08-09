@@ -1,0 +1,12 @@
+LICENSE.txt
+README.md
+pyproject.toml
+setup.py
+nammalang/__init__.py
+nammalang/__main__.py
+nammalang/interpreter.py
+nammalang.egg-info/PKG-INFO
+nammalang.egg-info/SOURCES.txt
+nammalang.egg-info/dependency_links.txt
+nammalang.egg-info/entry_points.txt
+nammalang.egg-info/top_level.txt
